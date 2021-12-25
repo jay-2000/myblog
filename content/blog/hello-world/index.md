@@ -1,5 +1,5 @@
 ---
-title: journey to opensource
+title: Journey to Opensource
 date: "2021-12-25T22:12:03.284Z"
 description: "Opensource"
 ---
