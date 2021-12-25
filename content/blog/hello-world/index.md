@@ -11,77 +11,23 @@ I'm sure I'll write a lot more interesting things in the future.
 Oh, and here's a great things my linkedIn Profile
 [JAY PARMAR](https://www.linkedin.com/in/jay-parmar-3755501a1/).
 
+## About me
 > A Budding software Engineering a and person who dreams to build and builds to dream.
 > I'm an open-source enthusiast, a learner 📕I'm deeply passionate about software development & innovations. 
 >I believe in the power of community of Software Development
 
 ![opensource](./opensource.png)
 
-You can also write code blocks here!
+Something important code blocks here!
 
 ```js
 const opensource = "preserves lots of opportunities"
 ```
 
-| Number | Title                                    | Year |
-| :----- | :--------------------------------------- | ---: |
-| 1      | Harry Potter and the Philosopher’s Stone | 2001 |
-| 2      | Harry Potter and the Chamber of Secrets  | 2002 |
-| 3      | Harry Potter and the Prisoner of Azkaban | 2004 |
+[My GitHub profile](https://github.com/jay-2000)
 
-[View raw (TEST.md)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md)
-
-This is a paragraph.
-
-    This is a paragraph.
-
-# Header 1
-
-## Header 2
-
-    Header 1
-    ========
-
-    Header 2
-    --------
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-    # Header 1
-    ## Header 2
-    ### Header 3
-    #### Header 4
-    ##### Header 5
-    ###### Header 6
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-    # Header 1 #
-    ## Header 2 ##
-    ### Header 3 ###
-    #### Header 4 ####
-    ##### Header 5 #####
-    ###### Header 6 ######
+<!---
+This is a paragraph
 
 > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
 
@@ -104,39 +50,9 @@ This is a paragraph.
     >
     >     Markdown.generate();
 
-- Red
-- Green
-- Blue
-
-* Red
-* Green
-* Blue
-
-- Red
-- Green
-- Blue
-
-```markdown
-- Red
-- Green
-- Blue
-
-* Red
-* Green
-* Blue
-
-- Red
-- Green
-- Blue
-```
-
 - `code goes` here in this line
 - **bold** goes here
 
-```markdown
-- `code goes` here in this line
-- **bold** goes here
-```
 
 1. Buy flour and salt
 1. Mix together with water
@@ -160,7 +76,7 @@ Paragraph:
 
     Code
 
-<!-- -->
+ 
 
     Paragraph:
 
@@ -225,3 +141,4 @@ This paragraph has some `code` in it.
 ![Alt Text](https://placehold.it/200x50 "Image Title")
 
     ![Alt Text](https://placehold.it/200x50 "Image Title")
+-->
