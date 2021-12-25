@@ -1,30 +1,26 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: journey to opensource
+date: "2021-12-25T22:12:03.284Z"
+description: "Opensource"
 ---
 
-This is my first post on my new fake blog! How exciting!
+This is my first post on my new blog! How exciting!
 
 I'm sure I'll write a lot more interesting things in the future.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+Oh, and here's a great things my linkedIn Profile
+[JAY PARMAR](https://www.linkedin.com/in/jay-parmar-3755501a1/).
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+> A Budding software Engineering a and person who dreams to build and builds to dream.
+> I'm an open-source enthusiast, a learner 📕I'm deeply passionate about software development & innovations. 
+>I believe in the power of community of Software Development
 
-![Chinese Salty Egg](./salty_egg.jpg)
+![opensource](./opensource.png)
 
 You can also write code blocks here!
 
 ```js
-const saltyDuckEgg = "chinese preserved food product"
+const opensource = "preserves lots of opportunities"
 ```
 
 | Number | Title                                    | Year |
