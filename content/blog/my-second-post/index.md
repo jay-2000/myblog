@@ -21,7 +21,7 @@ Also, all backgrounds and skills levels are encouraged to complete the challenge
 
 ### Things I learn
 
-> Opensource culture is so great that you will learn sommething new 
-every single Day
+> Opensource culture is so great that you will learn something new 
+EVERY SINGLE DAY
 
 ### [link to repository of Contribution](https://github.com/nidhisingh-1/OnlyHTML-CSS)
