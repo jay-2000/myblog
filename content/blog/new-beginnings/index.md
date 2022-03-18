@@ -1,13 +1,10 @@
 ---
 title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+date: "2022-03-18T22:40:32.169Z"
+description: Starting my 100 days of code Journey(i.e 19 March 2022 to 26 June 2022).
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+I'm happy to share that, i am going to start my 100 days of code Journey from tommorow
 
 ## On deer horse aboard tritely yikes and much
 
