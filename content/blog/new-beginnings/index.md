@@ -6,7 +6,7 @@ description: Starting my 100 days of code Journey(i.e 19 March 2022 to 26 June 2
 
 I'm happy to share that, i am going to start my 100 days of code Journey from tommorow.
 
-![coding](/content/blog/new-beginnings/webdev.png)
+![coding](./webdev.png)
 
 ## Best way to learn Dev/code
 
