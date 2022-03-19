@@ -22,11 +22,7 @@ Following are the project which i made using python 3.
 I got to learn string conversion(str()), print function, conditional statements(if, else), uppercaase & lowercase conversions(.lower , .upper).
 
 
-But this time I will do it
 
-> Coding and Development goes hand in hand  
-> You cannot skip any of them if you want to be an Elite SDE
-> and Remember nobody is too late to start.
 
 Respect++ & Huge Shout outs to those who have completed their 100 days of code challenge.
 
