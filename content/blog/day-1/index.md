@@ -21,6 +21,8 @@ Following are the project which i made using python 3.
 
 I got to learn string conversion(str()), print function, conditional statements(if, else), uppercaase & lowercase conversions(.lower , .upper).
 
+Also got to know about the great use of while loop, continue , Random module, and break and some basic concept.
+
 
 
 
