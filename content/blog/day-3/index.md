@@ -6,9 +6,9 @@ description: Learned about GUI Tkinter in python and Quick revision of Bootstrap
 
 mini-projects are must to understand in depth of the topic.
 
-![coding](./webdev.png)
+![coding](./output.png)
 
-## Language/concept/topic
+## Clock in python(Language/concept/topic)
 
 So Basically, Tkinter helps in developing GUI app in python and it comes built with python no need to run the command `PIP INSTALL TKINTER`. I have made a digital clock using tkinter and time module
 
