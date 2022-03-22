@@ -18,7 +18,7 @@ Pattern program is something which is more often asked in interview, since it im
 
 ### Key takeaways
 
-I got to learn about how patter program works and how to code and even if you get stuck you can still figure out since its not that hard which i use to consider.
+I got to learn about how patter program works and how to code and even if you get stuck you can still figure out since its not that hard which i use to consider. also got to learn qrcode module which was pretty amazing
 
 
 
