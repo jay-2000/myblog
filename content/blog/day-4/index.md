@@ -14,6 +14,8 @@ Pattern program is something which is more often asked in interview, since it im
 
 - [link to code](https://github.com/jay-2000/lip.py/tree/main/pattern)
 
+- [link to code](https://github.com/jay-2000/lip.py/blob/main/qrcode.py)
+
 ### Key takeaways
 
 I got to learn about how patter program works and how to code and even if you get stuck you can still figure out since its not that hard which i use to consider.
