@@ -4,13 +4,13 @@ date: "2022-03-22T23:43:32.169Z"
 description: Pattern programs in python
 ---
 
-how my day spent.
+My today's day was pretty cool start with workout and then after getting ready for started i started with some random youtube tutorial where i learned about how to make QRcode in python with just 10 lines of code which was pretty cool.
 
-![coding](./webdev.png)
+![coding](./Pattern.png)
 
 ## Language/concept/topic
 
-what and how i did the stuff.
+Pattern program is something which is more often asked in interview, since it improvess the logic for it and moreover it helps to know how use loops and nested loops according to the requirement.
 
 - [link to code](https://github.com/jay-2000/lip.py/tree/main/pattern)
 
