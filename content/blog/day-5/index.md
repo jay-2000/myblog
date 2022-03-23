@@ -1,24 +1,24 @@
 ---
-title: Day --
-date: "2022-0+-++T22:43:32.169Z"
-description: --
+title: Day 05
+date: "2022-03-23T22:43:32.169Z"
+description: Started solving leetcode :)
 ---
 
-how my day spent.
+my day spent well and ended up with leetcode.
 
-![coding](./webdev.png)
+![coding](./leetcode.png)
 
 ## Language/concept/topic
 
-what and how i did the stuff.
+coding helps to improve the logic and language syntaxically start is pretty hard but not impossible. this is how i started with the help of some references and tutorial for 2nd problem
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/quiz_game.py)
+- [leetcode problem 509](https://github.com/jay-2000/lip.py/blob/main/leetcode/509.py)
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/number_guesser.py)
+- [leetcode problem 1823](https://github.com/jay-2000/lip.py/blob/main/leetcode/1823.py)
 
 ### Key takeaways
 
-I got to learn -------.
+I got to learn DSA(this 3 letters together and very dangerous) concepts.just check out the code you will get to know the topics that i tried to covered
 
 
 
