@@ -16,6 +16,8 @@ coding helps to improve the logic and language syntaxically start is pretty hard
 
 - [leetcode problem 1823](https://github.com/jay-2000/lip.py/blob/main/leetcode/1823.py)
 
+- [No-leetcode problem Print 1 to 100 using recursion](https://github.com/jay-2000/lip.py/blob/main/leetcode/notleetcode.py)
+
 ### Key takeaways
 
 I got to learn DSA(this 3 letters together and very dangerous) concepts.just check out the code you will get to know the topics that i tried to covered
