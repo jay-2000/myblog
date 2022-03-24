@@ -4,21 +4,21 @@ date: "2022-03-24T22:43:32.169Z"
 description: mini project in cryptography
 ---
 
-how my day spent.
+It was a beautiful cloudy day enjoyed learning concepts related to networking, security and cryptography.
 
 ![coding](./webdev.png)
 
 ## Language/concept/topic
 
-what and how i did the stuff.
+A very cool project in security using python with the help of cryptography.fernet module. this projects helps in password management.
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/quiz_game.py)
+- [link to code](https://github.com/jay-2000/lip.py/blob/main/password_manager.py)
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/number_guesser.py)
+- [password.txt](https://github.com/jay-2000/lip.py/blob/main/password.txt)
 
 ### Key takeaways
 
-I got to learn -------.
+I got to learn new concepts related to cryptography and networking.
 
 
 
