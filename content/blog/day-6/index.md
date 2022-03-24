@@ -1,5 +1,5 @@
 ---
-title: Day --
+title: Day 06
 date: "2022-03-24T22:43:32.169Z"
 description: mini project in cryptography
 ---
