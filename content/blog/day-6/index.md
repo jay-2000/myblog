@@ -6,7 +6,7 @@ description: mini project in cryptography
 
 It was a beautiful cloudy day enjoyed learning concepts related to networking, security and cryptography.
 
-![coding](./webdev.png)
+![coding](./cryptography.png)
 
 ## Language/concept/topic
 
