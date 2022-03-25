@@ -1,7 +1,7 @@
 ---
 title: Day 04
 date: "2022-03-22T23:43:32.169Z"
-description: Pattern programs in python |
+description: Pattern programs in python 
 #100daysofcode
 ---
 
