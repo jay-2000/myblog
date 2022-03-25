@@ -1,7 +1,7 @@
 ---
 title: Day 02
 date: "2022-03-20T22:43:32.169Z"
-description: clearing basics  of python
+description: clearing basics  of python | #100daysofcode
 ---
 
 well Today was very sunny day and enjoyed alot by learning python.
