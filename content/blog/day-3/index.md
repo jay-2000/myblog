@@ -1,7 +1,7 @@
 ---
 title: Day 03
 date: "2022-03-21T23:14:32.169Z"
-description: Learned about GUI Tkinter in python and Quick revision of Bootstrap(frontend).
+description: Learned about GUI Tkinter in python and Quick revision of Bootstrap(frontend). | #100daysofcode
 ---
 
 mini-projects are must to understand in depth of the topic.
