@@ -1,7 +1,7 @@
 ---
 title: Day 01
 date: "2022-03-19T22:43:32.169Z"
-description: Started learning python by developing mini-projects
+description: Started learning python by developing mini-projects | #100daysofcode
 ---
 
 I'm happy to share that, i am going to start my 100 days of code Journey from Today.
