@@ -1,7 +1,7 @@
 ---
 title: Day 05
 date: "2022-03-23T22:43:32.169Z"
-description: Started solving leetcode :)
+description: Started solving leetcode :) | #100daysofcode
 ---
 
 my day spent well and ended up with leetcode.

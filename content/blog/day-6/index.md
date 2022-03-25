@@ -1,7 +1,7 @@
 ---
 title: Day 06
 date: "2022-03-24T22:43:32.169Z"
-description: mini project in cryptography
+description: mini project in cryptography | #100daysofcode
 ---
 
 It was a beautiful cloudy day enjoyed learning concepts related to networking, security and cryptography.

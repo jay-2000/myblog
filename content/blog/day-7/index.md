@@ -1,7 +1,7 @@
 ---
 title: Day 07
 date: "2022-03-25T22:43:32.169Z"
-description: made multi-clipboard using python
+description: made multi-clipboard using python | #100daysofcode
 ---
 
 Today I was very happy since i received my DEV hackathon participant badge as well as few dollars credits to buy some DEV sticker goodies, as a token of appreciation for a successful submission as a participant.so TODAY I FELT LIKE TO DO SOME DEVELOPMENT RATHER THAN SOLVING A CODING PROBLEM.
