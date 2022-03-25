@@ -6,7 +6,7 @@ description: Started learning python by developing mini-projects
 
 I'm happy to share that, i am going to start my 100 days of code Journey from Today.
 
-![coding](./webdev.png)
+![web](./illustrator.png)
 
 ## Language
 
