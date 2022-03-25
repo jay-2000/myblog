@@ -4,13 +4,13 @@ date: "2022-03-25T22:43:32.169Z"
 description: made multi-clipboard using python
 ---
 
-how my day spent.
+Today I was very happy since i received my DEV hackathon participant badge as well as few dollars credits to buy some DEV sticker goodies, as a token of appreciation for a successful submission as a participant.so TODAY I FELT LIKE TO DO SOME DEVELOPMENT RATHER THAN SOLVING A CODING PROBLEM.
 
-![coding](./webdev.png)
+![output](./outputday7.png)
 
-## Language/concept/topic
+## Multi-clipboard
 
-with the help of different modules in python , I created a mini-project which helps to save data in json as a clipboard.
+With the help of different modules in python , I created a mini-project which helps to save data in json as a clipboard.for now the delete feature is not yet included but soon it can be so stay tune.
 
 - [link to code](https://github.com/jay-2000/automation-python-miniprojects/blob/main/multiclipboard.py)
 
