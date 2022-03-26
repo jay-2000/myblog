@@ -1,7 +1,7 @@
 ---
-title: Day --
-date: "2022-0+-++T22:43:32.169Z"
-description: --
+title: Day 08
+date: "2022-03-26T22:43:32.169Z"
+description: Developed weather app using exxternal api
 ---
 
 how my day spent.
@@ -10,15 +10,14 @@ how my day spent.
 
 ## Language/concept/topic
 
-what and how i did the stuff.
+Using weather API data of environment is being fetched and used by application.
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/quiz_game.py)
+- [link to code](https://github.com/jay-2000/automation-python-miniprojects/blob/main/weather.py)
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/number_guesser.py)
 
 ### Key takeaways
 
-I got to learn -------.
+I got to learn how to use external api for the project.
 
 
 
