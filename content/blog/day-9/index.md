@@ -1,7 +1,7 @@
 ---
 title: Day 09
 date: "2022-03-27T22:43:32.169Z"
-description: Developed weather app using exxternal api
+description: Send email using python
 ---
 
 how my day spent.
@@ -10,7 +10,7 @@ how my day spent.
 
 ## Language/concept/topic
 
-Using weather API data of environment is being fetched and used by application.
+Using some modules we can sed an email to the given email-id.
 
 - [link to code](https://github.com/jay-2000/automation-python-miniprojects/blob/main/send_email.py)
 
