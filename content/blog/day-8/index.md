@@ -6,7 +6,7 @@ description: Developed weather app using exxternal api
 
 how my day spent.
 
-![coding](./webdev.png)
+![coding](./Weather.png)
 
 ## Language/concept/topic
 
