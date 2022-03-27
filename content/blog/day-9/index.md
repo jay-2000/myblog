@@ -6,7 +6,7 @@ description: Send email using python
 
 how my day spent.
 
-![coding](./webdev.png)
+![coding](./.png)
 
 ## Language/concept/topic
 
