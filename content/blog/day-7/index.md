@@ -6,7 +6,7 @@ description: made multi-clipboard using python  #100daysofcode
 
 Today I was very happy since i received my DEV hackathon participant badge as well as few dollars credits to buy some DEV sticker goodies, as a token of appreciation for a successful submission as a participant.so TODAY I FELT LIKE TO DO SOME DEVELOPMENT RATHER THAN SOLVING A CODING PROBLEM.
 
-![output](./outputday7.png)
+![output](./Clipboard.png)
 
 ## Multi-clipboard
 
@@ -14,7 +14,7 @@ With the help of different modules in python , I created a mini-project which he
 
 - [link to code](https://github.com/jay-2000/automation-python-miniprojects/blob/main/multiclipboard.py)
 
-
+![output](./outputday7.png)
 
 ### Key takeaways
 
