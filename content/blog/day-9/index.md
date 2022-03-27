@@ -4,7 +4,7 @@ date: "2022-03-27T22:43:32.169Z"
 description: Send email using python
 ---
 
-how my day spent.
+The sunday was pretty good , enjoyed by doing miniproject in python and started learning react.
 
 ![coding](./gmail.png)
 
@@ -17,7 +17,7 @@ Using some modules we can sed an email to the given email-id.
 
 ### Key takeaways
 
-I got to learn how to use external api for the project.
+I got to learn how to use python for sending email to the person.
 
 
 
