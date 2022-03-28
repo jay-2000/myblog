@@ -14,7 +14,7 @@ what and how i did the stuff.
 
 - [scroll](https://github.com/jay-2000/jsMiniProjects/tree/main/scroll)
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/number_guesser.py)
+- [video](https://github.com/jay-2000/jsMiniProjects/tree/main/video)
 
 ### Key takeaways
 
