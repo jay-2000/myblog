@@ -12,7 +12,7 @@ description: Project for DOM projects
 
 what and how i did the stuff.
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/quiz_game.py)
+- [scroll](https://github.com/jay-2000/jsMiniProjects/tree/main/scroll)
 
 - [link to code](https://github.com/jay-2000/lip.py/blob/main/number_guesser.py)
 
