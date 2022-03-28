@@ -6,7 +6,7 @@ description: Project for DOM projects
 
 
 
-![coding](./scroll.png)
+
 
 ## Language/concept/topic
 
@@ -14,7 +14,11 @@ So for scroll project basically i developed a landing page with a scroll feature
 
 Talking about anthor project it is just a background video which can be used as landing page's hero section.
 
+![coding](./scroll.png)
+
 - [scroll](https://github.com/jay-2000/jsMiniProjects/tree/main/scroll)
+
+![coding](./video.png)
 
 - [video](https://github.com/jay-2000/jsMiniProjects/tree/main/video)
 
