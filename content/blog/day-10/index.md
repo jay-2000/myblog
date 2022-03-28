@@ -10,9 +10,9 @@ description: Project for DOM projects
 
 ## Language/concept/topic
 
-So for scroll project basically i developed a landing page with a scroll feature which can even be implementated using bootstrap but due to some quick revision of JS and DOM i have madde this project.
+So for scroll project basically i developed a landing page with a scroll feature which can even be implementated using bootstrap but due to some quick revision of JS and DOM i have made this project.
 
-talking about anthr project it is just a backgroung video which can be used  as landing pages hero section
+Talking about anthor project it is just a background video which can be used as landing page's hero section.
 
 - [scroll](https://github.com/jay-2000/jsMiniProjects/tree/main/scroll)
 
