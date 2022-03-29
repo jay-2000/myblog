@@ -1,6 +1,6 @@
 ---
 title: Day 11
-date: "2022-0+-++T22:43:32.169Z"
+date: "2022-03-29T22:43:32.169Z"
 description: More DOM projects.
 ---
 
@@ -18,7 +18,7 @@ what and how i did the stuff.
 
 ### Key takeaways
 
-I got to learn -------.
+I got to learn Core DOM cncepts and revised some known concepts.
 
 
 
