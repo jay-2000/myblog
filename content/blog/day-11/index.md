@@ -1,10 +1,10 @@
 ---
 title: Day 11
 date: "2022-0+-++T22:43:32.169Z"
-description: --
+description: More DOM projects.
 ---
 
-how my day spent.
+Finally Went to college and attended all lecture after long time started practice core dom enjoyed the day.
 
 ![coding](./webdev.png)
 
@@ -12,7 +12,7 @@ how my day spent.
 
 what and how i did the stuff.
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/quiz_game.py)
+- [link to code For Tab](https://github.com/jay-2000/jsMiniProjects/tree/main/tabs)
 
 - [link to code](https://github.com/jay-2000/lip.py/blob/main/number_guesser.py)
 
