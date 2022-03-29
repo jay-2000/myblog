@@ -10,7 +10,9 @@ Finally Went to college and attended all lecture after long time started practic
 
 ## Language/concept/topic
 
-what and how i did the stuff.
+Using DOM i developed an web app for Tab in which section will be divided as tabs of browser.
+
+And another one is Countdown-timer so by name this mini project is clear that it is a countdown app which will run on parameter of timer.
 
 - [link to code For Tab](https://github.com/jay-2000/jsMiniProjects/tree/main/tabs)
 
