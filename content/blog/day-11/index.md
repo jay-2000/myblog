@@ -14,7 +14,7 @@ Using DOM i developed an web app for Tab in which section will be divided as tab
 
 And another one is Countdown-timer so by name this mini project is clear that it is a countdown app which will run on parameter of timer.
 
-![coding](./webdev.png)
+![coding](./tab.png)
 
 - [link to code For Tab](https://github.com/jay-2000/jsMiniProjects/tree/main/tabs)
 
