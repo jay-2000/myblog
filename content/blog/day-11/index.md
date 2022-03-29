@@ -16,7 +16,7 @@ And another one is Countdown-timer so by name this mini project is clear that it
 
 - [link to code For Tab](https://github.com/jay-2000/jsMiniProjects/tree/main/tabs)
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/number_guesser.py)
+- [link to code](https://github.com/jay-2000/jsMiniProjects/tree/main/countdown-timer)
 
 ### Key takeaways
 
