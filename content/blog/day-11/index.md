@@ -6,7 +6,7 @@ description: More DOM projects.
 
 Finally Went to college and attended all lecture after long time started practice core dom enjoyed the day.
 
-![coding](./webdev.png)
+
 
 ## Language/concept/topic
 
@@ -14,7 +14,11 @@ Using DOM i developed an web app for Tab in which section will be divided as tab
 
 And another one is Countdown-timer so by name this mini project is clear that it is a countdown app which will run on parameter of timer.
 
+![coding](./webdev.png)
+
 - [link to code For Tab](https://github.com/jay-2000/jsMiniProjects/tree/main/tabs)
+
+![coding](./timer.png)
 
 - [link to code](https://github.com/jay-2000/jsMiniProjects/tree/main/countdown-timer)
 
