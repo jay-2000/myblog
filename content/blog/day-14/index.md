@@ -1,24 +1,24 @@
 ---
 title: Day 14
 date: "2022-04-01T22:43:32.169Z"
-description: --
+description: Simple Slider App
 ---
 
-how my day spent.
+
 
 ![coding](./webdev.png)
 
 ## Language/concept/topic
 
-what and how i did the stuff.
+Basically I have developed a slider or carousal app which has previous and next buttons according to the requirements .
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/quiz_game.py)
+- [link to code](https://github.com/jay-2000/jsMiniProjects/tree/main/slider)
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/number_guesser.py)
+
 
 ### Key takeaways
 
-I got to learn -------.
+I got to learn some concepts and some revision of few topics.
 
 
 
