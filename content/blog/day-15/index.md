@@ -1,24 +1,23 @@
 ---
 title: Day 15
 date: "2022-04-02T22:43:32.169Z"
-description: --
+description: Counter App
 ---
 
-how my day spent.
+
 
 ![coding](./webdev.png)
 
 ## Language/concept/topic
 
-what and how i did the stuff.
+Made a counter app which has a feature for increment, decrement and reset .
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/quiz_game.py)
+- [link to code](https://github.com/jay-2000/jsMiniProjects/tree/main/counter)
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/number_guesser.py)
 
 ### Key takeaways
 
-I got to learn -------.
+I got to revised some DOM concepts and Core JS with ES5/6.
 
 
 
