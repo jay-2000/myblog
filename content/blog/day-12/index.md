@@ -1,24 +1,24 @@
 ---
 title: Day 12
 date: "2022-03-30T22:43:32.169Z"
-description: --
+description: Developed Lorem Ipsom Generator
 ---
 
-how my day spent.
+Hola Folks, learned some new and interesting stuff for now pace of learning python have been slow down but increased the pace of vanilla JS projects.
 
 ![coding](./webdev.png)
 
 ## Language/concept/topic
 
-what and how i did the stuff.
+So, basically I have developed a website in which we can generate random text i.e. Lorem Ipsom ,so that it can be used for specific requirements.
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/quiz_game.py)
+- [link to code](https://github.com/jay-2000/jsMiniProjects/tree/main/counter)
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/number_guesser.py)
+
 
 ### Key takeaways
 
-I got to learn -------.
+I got to learn some concepts of vanilla js.
 
 
 
