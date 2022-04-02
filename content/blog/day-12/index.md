@@ -12,7 +12,7 @@ Hola Folks, learned some new and interesting stuff for now pace of learning pyth
 
 So, basically I have developed a website in which we can generate random text i.e. Lorem Ipsom ,so that it can be used for specific requirements.
 
-- [link to code](https://github.com/jay-2000/jsMiniProjects/tree/main/counter)
+- [link to code](https://github.com/jay-2000/jsMiniProjects/tree/main/lorem%20ipsom)
 
 
 
