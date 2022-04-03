@@ -6,7 +6,7 @@ description: Counter App
 
 
 
-![coding](./webdev.png)
+![coding](./output.png)
 
 ## Language/concept/topic
 

@@ -6,7 +6,7 @@ description: Simple Slider App
 
 
 
-![coding](./webdev.png)
+![coding](./output.png)
 
 ## Language/concept/topic
 

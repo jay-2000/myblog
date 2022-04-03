@@ -6,7 +6,7 @@ description: Grocery Bud app
 
 Hola Folks, learned some new and interesting stuff for now pace of learning python have been slow down but increased the pace of vanilla JS projects.
 
-![coding](./webdev.png)
+![coding](./output.png)
 
 ## Language/concept/topic
 
