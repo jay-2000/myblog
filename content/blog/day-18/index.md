@@ -6,7 +6,7 @@ description: Filter app
 
 how my day spent.
 
-![coding](./webdev.png)
+![coding](./output.png)
 
 ## Language/concept/topic
 
