@@ -14,6 +14,8 @@ So with the help of toggle button the dark mode can be switch into light and dar
 
 - [link to code](https://github.com/jay-2000/jsMiniProjects/tree/main/dark-mode)
 
+![coding](./output1.png)
+
 
 ### Key takeaways
 
