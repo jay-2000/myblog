@@ -6,7 +6,7 @@ description:
 
 This sunday was pretty busy writing assignments.
 
-![coding](./webdev.png)
+
 
 ## Language/concept/topic
 
