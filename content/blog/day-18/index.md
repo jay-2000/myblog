@@ -1,7 +1,7 @@
 ---
 title: Day 18
 date: "2022-04-05T22:43:32.169Z"
-description: --
+description: Filter app
 ---
 
 how my day spent.
@@ -10,15 +10,14 @@ how my day spent.
 
 ## Language/concept/topic
 
-what and how i did the stuff.
+You can search the key words for the product so that it can be search and gives the required result.
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/quiz_game.py)
+- [link to code](https://github.com/jay-2000/jsMiniProjects/tree/main/filters)
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/number_guesser.py)
 
 ### Key takeaways
 
-I got to learn -------.
+I got to learn some DOM concepts and quick revision.
 
 
 
