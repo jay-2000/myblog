@@ -1,24 +1,23 @@
 ---
 title: Day 17
 date: "2022-04-04T22:43:32.169Z"
-description: --
+description: Dark Mode
 ---
 
-how my day spent.
+Day spent well with writingg assignments and completing journals.
 
-![coding](./webdev.png)
+![coding](./output.png)
 
 ## Language/concept/topic
 
-what and how i did the stuff.
+So with the help of toggle button the dark mode can be switch into light and dark theme.
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/quiz_game.py)
+- [link to code](https://github.com/jay-2000/jsMiniProjects/tree/main/dark-mode)
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/number_guesser.py)
 
 ### Key takeaways
 
-I got to learn -------.
+I got to learn Dom elements and manymore.
 
 
 
