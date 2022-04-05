@@ -1,7 +1,7 @@
 ---
 title: Day 16
 date: "2022-04-03T22:43:32.169Z"
-description: 
+description: Numbers app
 ---
 
 This sunday was pretty busy writing assignments.
@@ -12,7 +12,9 @@ This sunday was pretty busy writing assignments.
 
 what and how i did the stuff.
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/quiz_game.py)
+![output](./output.png)
+
+- [link to code](https://github.com/jay-2000/jsMiniProjects/tree/main/numbers)
 
 
 ### Key takeaways
