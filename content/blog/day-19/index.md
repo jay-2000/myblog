@@ -6,15 +6,14 @@ description: --
 
 how my day spent.
 
-![coding](./webdev.png)
+![coding](./output.png)
 
 ## Language/concept/topic
 
 what and how i did the stuff.
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/quiz_game.py)
+- [link to code](https://github.com/jay-2000/jsMiniProjects/tree/main/wikipedia)
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/number_guesser.py)
 
 ### Key takeaways
 
