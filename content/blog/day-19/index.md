@@ -14,6 +14,7 @@ what and how i did the stuff.
 
 - [link to code](https://github.com/jay-2000/jsMiniProjects/tree/main/wikipedia)
 
+![coding](./output1.png)
 
 ### Key takeaways
 
