@@ -1,16 +1,16 @@
 ---
 title: Day 19
 date: "2022-04-06T22:43:32.169Z"
-description: --
+description: wikipedia webapp
 ---
 
-how my day spent.
+
 
 ![coding](./output.png)
 
 ## Language/concept/topic
 
-what and how i did the stuff.
+so Basically we can make search on specific topic and the results will be shown on this website which will redirect to wikipedia.
 
 - [link to code](https://github.com/jay-2000/jsMiniProjects/tree/main/wikipedia)
 
@@ -18,7 +18,7 @@ what and how i did the stuff.
 
 ### Key takeaways
 
-I got to learn -------.
+I got to learn some new concepts and quick revision.
 
 
 
