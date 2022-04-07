@@ -1,7 +1,7 @@
 ---
 title: Day 20
 date: "2022-04-07T22:43:32.169Z"
-description: --
+description: GitHub Profile
 ---
 
 how my day spent.
@@ -10,15 +10,14 @@ how my day spent.
 
 ## Language/concept/topic
 
-what and how i did the stuff.
+Basically its used for searching the github profile with the help of thier username.
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/quiz_game.py)
+- [link to code](https://github.com/jay-2000/jsMiniProjects/tree/main/github-profile)
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/number_guesser.py)
 
 ### Key takeaways
 
-I got to learn -------.
+I got to learn some ES6 concepts.
 
 
 
