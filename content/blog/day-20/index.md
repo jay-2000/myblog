@@ -4,7 +4,7 @@ date: "2022-04-07T22:43:32.169Z"
 description: GitHub Profile
 ---
 
-how my day spent.
+Temperature was too high for the day. Also the day ended up in writing assignments and experiments
 
 ![coding](./output.png)
 
