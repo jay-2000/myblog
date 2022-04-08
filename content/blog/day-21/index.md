@@ -4,13 +4,12 @@ date: "2022-04-08T22:43:32.169Z"
 description: movie app
 ---
 
-how my day spent.
 
 ![coding](./output.png)
 
 ## Language/concept/topic
 
-what and how i did the stuff.
+with the help of api you can search movie name in this website.
 
 - [link to code](https://github.com/jay-2000/lip.py/blob/main/quiz_game.py)
 
