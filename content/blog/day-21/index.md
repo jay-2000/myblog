@@ -17,7 +17,7 @@ with the help of api you can search movie name in this website.
 
 ### Key takeaways
 
-I got to learn -------.
+I got to learn dom and api concepts.
 
 
 
