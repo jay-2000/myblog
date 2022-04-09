@@ -4,13 +4,12 @@ date: "2022-0+-09T22:43:32.169Z"
 description: recipe app
 ---
 
-how my day spent.
 
 ![coding](./output.png)
 
 ## Language/concept/topic
 
-what and how i did the stuff.
+Basically a website in which a random recipes are generated on reloading the pages or either one can search it and if its available it will surely show out.
 
 - [link to code](https://github.com/jay-2000/jsMiniProjects/tree/main/recipe-app)
 
