@@ -13,6 +13,8 @@ Simple drawing webapp with the help of cursors.it is made using canvas module.
 
 - [link to code](https://github.com/jay-2000/jsMiniProjects/tree/main/drawing-app)
 
+![coding](./output.png)
+
 
 ### Key takeaways
 
