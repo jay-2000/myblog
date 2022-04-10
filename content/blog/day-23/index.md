@@ -5,7 +5,7 @@ description: Drawing app
 ---
 
 
-![coding](./webdev.png)
+![coding](./output1.png)
 
 ## Language/concept/topic
 
