@@ -1,7 +1,7 @@
 ---
 title: Day 23
 date: "2022-04-10T22:43:32.169Z"
-description: --
+description: Drawing app
 ---
 
 how my day spent.
@@ -10,15 +10,14 @@ how my day spent.
 
 ## Language/concept/topic
 
-what and how i did the stuff.
+Simple drawing webapp with the help of cursors.it is made using canvas module.
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/quiz_game.py)
+- [link to code](https://github.com/jay-2000/jsMiniProjects/tree/main/drawing-app)
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/number_guesser.py)
 
 ### Key takeaways
 
-I got to learn -------.
+I got to learn some canvas properties in JavaScript.
 
 
 
