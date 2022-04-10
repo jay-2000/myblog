@@ -4,7 +4,6 @@ date: "2022-04-10T22:43:32.169Z"
 description: Drawing app
 ---
 
-how my day spent.
 
 ![coding](./webdev.png)
 
