@@ -17,7 +17,7 @@ what and how i did the stuff.
 
 ### Key takeaways
 
-I got to learn -------.
+I got to learn js concepts some quick revision of CSS and bootstrap4.
 
 
 
