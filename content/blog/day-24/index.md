@@ -1,7 +1,7 @@
 ---
 title: Day 24
 date: "2022-04-11T22:43:32.169Z"
-description: --
+description: Calculator app
 ---
 
 
@@ -9,14 +9,14 @@ description: --
 
 ## Language/concept/topic
 
-what and how i did the stuff.
+with the help of JavaScript (ES6) i have developed this calculator which can perform all the basic operation which a normal calculator can perform.
 
 - [link to code](https://github.com/jay-2000/jsMiniProjects/tree/main/calculator)
 
 
 ### Key takeaways
 
-I got to learn -------.
+I got to learn ES6 concepts.
 
 
 
