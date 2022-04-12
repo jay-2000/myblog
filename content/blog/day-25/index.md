@@ -4,7 +4,6 @@ date: "2022-04-12T22:43:32.169Z"
 description: Tourism Website
 ---
 
-how my day spent.
 
 ![coding](./output.png)
 
