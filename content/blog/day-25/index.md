@@ -12,7 +12,7 @@ how my day spent.
 
 ## Language/concept/topic
 
-what and how i did the stuff.
+A responsive tourism webiste UI with the help of HTML, CSS ,and some js. Basically I have used bootstrap for  responsiveness.
 
 - [link to code](https://github.com/jay-2000/jsMiniProjects/tree/main/tourism)
 
