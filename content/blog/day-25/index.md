@@ -8,6 +8,8 @@ how my day spent.
 
 ![coding](./output.png)
 
+![outputs](./output1.png)
+
 ## Language/concept/topic
 
 what and how i did the stuff.
