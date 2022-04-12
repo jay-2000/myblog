@@ -1,7 +1,7 @@
 ---
 title: Day 25
 date: "2022-04-12T22:43:32.169Z"
-description: --
+description: Tourism Website
 ---
 
 how my day spent.
@@ -14,7 +14,6 @@ what and how i did the stuff.
 
 - [link to code](https://github.com/jay-2000/lip.py/blob/main/quiz_game.py)
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/number_guesser.py)
 
 ### Key takeaways
 
