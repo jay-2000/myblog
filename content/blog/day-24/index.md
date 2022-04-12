@@ -4,7 +4,6 @@ date: "2022-04-11T22:43:32.169Z"
 description: --
 ---
 
-how my day spent.
 
 ![coding](./output.png)
 
@@ -12,7 +11,7 @@ how my day spent.
 
 what and how i did the stuff.
 
-- [link to code](https://github.com/jay-2000/lip.py/blob/main/quiz_game.py)
+- [link to code](https://github.com/jay-2000/jsMiniProjects/tree/main/calculator)
 
 
 ### Key takeaways
